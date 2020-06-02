@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/counter-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/counter-app/static/js/main.23587106.chunk.js",
-    "main.js.map": "/counter-app/static/js/main.23587106.chunk.js.map",
-    "runtime-main.js": "/counter-app/static/js/runtime-main.2138ca79.js",
-    "runtime-main.js.map": "/counter-app/static/js/runtime-main.2138ca79.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/counter-app/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.78e75b79.chunk.js": "/counter-app/static/js/2.78e75b79.chunk.js",
-    "static/js/2.78e75b79.chunk.js.map": "/counter-app/static/js/2.78e75b79.chunk.js.map",
-    "index.html": "/counter-app/index.html",
-    "precache-manifest.636846c7dd684fc9d171e89a62013651.js": "/counter-app/precache-manifest.636846c7dd684fc9d171e89a62013651.js",
-    "service-worker.js": "/counter-app/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/counter-app/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.5f361e03.chunk.css.map": "/counter-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.78e75b79.chunk.js.LICENSE.txt": "/counter-app/static/js/2.78e75b79.chunk.js.LICENSE.txt"
+    "main.css": "/cole.rose.github.io/counter-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cole.rose.github.io/counter-app/static/js/main.eaacda23.chunk.js",
+    "main.js.map": "/cole.rose.github.io/counter-app/static/js/main.eaacda23.chunk.js.map",
+    "runtime-main.js": "/cole.rose.github.io/counter-app/static/js/runtime-main.a3a2951c.js",
+    "runtime-main.js.map": "/cole.rose.github.io/counter-app/static/js/runtime-main.a3a2951c.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/cole.rose.github.io/counter-app/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.78e75b79.chunk.js": "/cole.rose.github.io/counter-app/static/js/2.78e75b79.chunk.js",
+    "static/js/2.78e75b79.chunk.js.map": "/cole.rose.github.io/counter-app/static/js/2.78e75b79.chunk.js.map",
+    "index.html": "/cole.rose.github.io/counter-app/index.html",
+    "precache-manifest.306981656bc902ef40ac15015099287e.js": "/cole.rose.github.io/counter-app/precache-manifest.306981656bc902ef40ac15015099287e.js",
+    "service-worker.js": "/cole.rose.github.io/counter-app/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/cole.rose.github.io/counter-app/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/cole.rose.github.io/counter-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.78e75b79.chunk.js.LICENSE.txt": "/cole.rose.github.io/counter-app/static/js/2.78e75b79.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2138ca79.js",
+    "static/js/runtime-main.a3a2951c.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.78e75b79.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.23587106.chunk.js"
+    "static/js/main.eaacda23.chunk.js"
   ]
 }
