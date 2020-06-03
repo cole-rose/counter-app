@@ -20,6 +20,7 @@ class App extends React.Component {
   componentDidMount() {
     //Ajax Call
     console.log("App - Mounted");
+    document.title = "Your Cart";
   }
 
   handleDelete = (counterId) => {

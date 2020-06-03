@@ -1,6 +1,6 @@
 {
-  "homepage": "https://cole.rose.github.io/counter-app",
   "name": "counter-app",
+  "homepage": "https://cole.rose.github.io/counter-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
